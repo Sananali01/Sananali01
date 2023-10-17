@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<br>
+
 <!-- Intro Section -->
 - 🔭 I’m currently working on **Web Development**, with a focus on creating responsive and user-friendly web interfaces.
 - 🌱 I’m currently learning **Full Stack Development** to broaden my skillset and work on end-to-end web solutions.
