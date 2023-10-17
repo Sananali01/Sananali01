@@ -78,7 +78,7 @@
 </p>
 
 <p align=center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sananali01&show_icons=true&locale=en" alt="sananali01" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sananali01&show_icons=true&locale=en" alt="sananali01" />
 </p>
 &nbsp;
 <p align="center">
