@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 Reach me via: **sananali010@gmail.com**
+- 📫 Reach me via: [Email](mailto:sananali010@gmail.com)
 
 - ⚡ Fun fact **Football and video games are my off-duty passions!**
 
