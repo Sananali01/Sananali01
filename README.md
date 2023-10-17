@@ -17,9 +17,9 @@
 
 - 👨‍💻 You can find all of my projects on [GitHub](https://github.com/Sananali01).
 
-- 💬 Feel free to reach out to me about **anything related to web development, programming, or tech trends**. I'm always eager to learn and share knowledge.
+- 💬 Feel free to reach out to me about **anything related to web development, programming, or tech trends**.
 
-- ⚡ Fun fact: When I'm not coding, I'm a dedicated football fan and an avid video game enthusiast, offering a perfect balance between work and play.
+- ⚡ Fun fact: When I'm not coding, I'm a dedicated football fan and an avid video game enthusiast.
 
 
 <h3 align="left">Connect with me:</h3>
