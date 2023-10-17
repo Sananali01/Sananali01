@@ -75,12 +75,9 @@
 <br>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sananali01&show_icons=true&locale=en&layout=compact" alt="sananali01" />
-</p>
-
-<p align=center">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sananali01&show_icons=true&locale=en" alt="sananali01" />
 </p>
-&nbsp;
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sananali01&" alt="sananali01" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sananali01" alt="sananali01" />
 </p>
+
