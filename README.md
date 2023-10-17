@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Sanan Ali</h1>
 <h3 align="center">A Passionate Front-End Developer</h3>
 
+<br>
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=0e75b6&style=flat" alt="sananali01" />
 </p>
 
+<br>
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -14,6 +16,7 @@
   </a>
 </p>
 
+<br>
 <!-- Intro Section -->
 - 🔭 I’m currently working on **Web Development**, with a focus on creating responsive and user-friendly web interfaces.
 - 🌱 I’m currently learning **Full Stack Development** to broaden my skillset and work on end-to-end web solutions.
@@ -23,6 +26,7 @@
 - 💬 Feel free to reach out to me about **anything related to web development, programming, or tech trends**.
 - ⚡ Fun fact: When I'm not coding, I'm a dedicated football fan and an avid video game enthusiast.
 
+<br>
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -37,6 +41,7 @@
   </a>
 </p>
 
+<br>
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
