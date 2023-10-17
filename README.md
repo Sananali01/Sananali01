@@ -5,7 +5,8 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sananali01" alt="sananali01" /></a> </p>
 
-<br>
+
+
 - 🔭 I’m currently working on **Web Development**, with a focus on creating responsive and user-friendly web interfaces.
 
 - 🌱 I’m currently learning **Full Stack Development** to broaden my skillset and work on end-to-end web solutions.
