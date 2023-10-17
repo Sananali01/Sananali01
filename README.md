@@ -72,12 +72,12 @@
 </p>
 
 <!-- GitHub Stats -->
-<br><br>
+<br>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sananali01&show_icons=true&locale=en&layout=compact" alt="sananali01" />
 </p>
-&nbsp;
-<p align="center">
+&nbsp;&nbsp;&nbsp;
+<p align=right">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sananali01&show_icons=true&locale=en" alt="sananali01" />
 </p>
 &nbsp;
