@@ -18,6 +18,7 @@
 - 💬 Ask me about **anything**
 
 - 📫 Reach me via: [Email](mailto:sananali010@gmail.com)
+- 📫 Reach me via: [GitHub](https://github.com/Sananali01)
 
 - ⚡ Fun fact **Football and video games are my off-duty passions!**
 
