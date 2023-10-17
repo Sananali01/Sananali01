@@ -15,7 +15,7 @@
 
 - 🥅 My goals include **Showcasing my best work and personal projects** to potential employers and collaborators.
 
-- 👨‍💻 You can find all of my projects on [GitHub](https://github.com/Sananali01). Explore my repositories to see my coding style and the projects I've worked on.
+- 👨‍💻 You can find all of my projects on [GitHub](https://github.com/Sananali01).
 
 - 💬 Feel free to reach out to me about **anything related to web development, programming, or tech trends**. I'm always eager to learn and share knowledge.
 
