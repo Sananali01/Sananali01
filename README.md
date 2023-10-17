@@ -5,22 +5,21 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sananali01" alt="sananali01" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+<br>
+- 🔭 I’m currently working on **Web Development**, with a focus on creating responsive and user-friendly web interfaces.
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development** to broaden my skillset and work on end-to-end web solutions.
 
-- 👯 I’m looking to collaborate with **other Developers**
+- 👯 I’m looking to collaborate with **other Developers** on open-source projects and exciting web development opportunities.
 
-- 🥅 Goals : **Showcase your best work and personal projects**
+- 🥅 My goals include **Showcasing my best work and personal projects** to potential employers and collaborators.
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 You can find all of my projects on [GitHub](https://github.com/Sananali01). Explore my repositories to see my coding style and the projects I've worked on.
 
-- 💬 Ask me about **anything**
+- 💬 Feel free to reach out to me about **anything related to web development, programming, or tech trends**. I'm always eager to learn and share knowledge.
 
-- 📫 Reach me via: [Email](mailto:sananali010@gmail.com)
-- 📫 Reach me via: [GitHub](https://github.com/Sananali01)
+- ⚡ Fun fact: When I'm not coding, I'm a dedicated football fan and an avid video game enthusiast, offering a perfect balance between work and play.
 
-- ⚡ Fun fact **Football and video games are my off-duty passions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
