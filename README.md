@@ -33,6 +33,9 @@
   <a href="https://linkedin.com/in/sananali007" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sananali007" height="30" width="40" />
   </a>
+  <a href="https://fb.com/sananali53" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sananali53" height="30" width="40" />
+  </a>
   <a href="https://instagram.com/_exotic.sanan" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_exotic.sanan" height="30" width="40" />
   </a>
