@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=0e75b6&style=flat" alt="sananali01" />
 </p>
-<hr>
+
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<hr>
+
 <!-- Intro Section -->
 - 🔭 I’m currently working on **Web Development**, with a focus on creating responsive and user-friendly web interfaces.
 - 🌱 I’m currently learning **MERN Stack** to broaden my skillset and work on end-to-end web solutions.
@@ -25,7 +25,7 @@
 - 💬 Feel free to reach out to me about **anything related to web development, programming, or tech trends**.
 - ⚡ Fun fact: When I'm not coding, I'm a dedicated football fan and an avid video game enthusiast.
 
-<hr>
+<br>
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="center">
