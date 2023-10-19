@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=0e75b6&style=flat" alt="sananali01" />
 </p>
 <hr>
-<br>
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -16,17 +15,17 @@
   </a>
 </p>
 
-
+<hr>
 <!-- Intro Section -->
 - 🔭 I’m currently working on **Web Development**, with a focus on creating responsive and user-friendly web interfaces.
-- 🌱 I’m currently learning **Full Stack Development** to broaden my skillset and work on end-to-end web solutions.
+- 🌱 I’m currently learning **MERN Stack** to broaden my skillset and work on end-to-end web solutions.
 - 👯 I’m looking to collaborate with **other Developers** on open-source projects and exciting web development opportunities.
 - 🥅 My goals include **Showcasing my best work and personal projects** to potential employers and collaborators.
 - 👨‍💻 You can find all of my projects on [GitHub](https://github.com/Sananali01).
 - 💬 Feel free to reach out to me about **anything related to web development, programming, or tech trends**.
 - ⚡ Fun fact: When I'm not coding, I'm a dedicated football fan and an avid video game enthusiast.
 
-<br>
+<hr>
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="center">
