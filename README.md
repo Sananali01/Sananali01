@@ -6,12 +6,12 @@
 </div>
 
 <br>
+
 <!-- Profile Views -->
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/Sananali01/count.svg">
-    <img src="https://profile-counter.glitch.me/Sananali01/count.svg" alt="Visitor Count" style="max-width: 100%;">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
+
 
 
 <!-- GitHub Trophies -->
