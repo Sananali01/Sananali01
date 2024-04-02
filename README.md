@@ -9,7 +9,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" style="max-width:100%;" />
+  <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" style="width: 200px; height: 40px;"  />
 </p>
 
 
