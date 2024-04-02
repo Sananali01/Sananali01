@@ -1,6 +1,9 @@
 <!-- Header -->
 <h1 align="center">Hi there! 👋 I'm Sanan Ali</h1>
 <h3 align="center">Passionate Front-End Developer | Football Fanatic | Video Game Enthusiast</h3>
+<div align="center">
+  <p>Passionate about web development, I'm currently focused on creating user-friendly interfaces and mastering the MERN Stack. Eager to collaborate and showcase my work to potential employers. When not coding, I enjoy cheering for my football team or diving into video games.</p>
+</div>
 
 <!-- Profile Views -->
 <p align="center">
@@ -13,14 +16,7 @@
 </p>
 
 <!-- Intro Section -->
-<div align="center">
-  <p>🔭 Currently working on Web Development, focusing on creating responsive and user-friendly interfaces.</p>
-  <p>🌱 Learning MERN Stack to broaden my skillset and work on end-to-end web solutions.</p>
-  <p>👯 Open to collaborate with other developers on open-source projects and exciting web development opportunities.</p>
-  <p>🥅 Goals include showcasing my best work and personal projects to potential employers and collaborators.</p>
-  <p>💬 Feel free to reach out to me about anything related to web development, programming, or tech trends.</p>
-  <p>⚡ Fun fact: When I'm not coding, I'm either cheering for my favorite football team or immersed in the world of video games.</p>
-</div>
+
 
 <!-- Connect with Me Section -->
 <h3 align="center">Connect with me:</h3>
@@ -49,6 +45,7 @@
 </p>
 
 <!-- GitHub Stats -->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sananali01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=sananali01&show_icons=true&locale=en" alt="GitHub Stats" />
