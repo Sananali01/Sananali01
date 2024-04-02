@@ -48,5 +48,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sananali01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sananali01&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
+
+
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd94f392133fe9d1060d593ae192840a7a238caba28c4a19e38cb7c2f1a77627/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6465766d7568696226">
+<img align="center" src="https://camo.githubusercontent.com/cd94f392133fe9d1060d593ae192840a7a238caba28c4a19e38cb7c2f1a77627/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6465766d7568696226" alt="devmuhib" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=devmuhib&amp;" style="max-width: 100%;">
+</a>
+</p>
