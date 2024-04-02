@@ -8,9 +8,8 @@
 <br>
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=0e75b6&style=flat" alt="sananali01" />
+  <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
-<br>
 
 <!-- GitHub Trophies -->
 <p align="center">
