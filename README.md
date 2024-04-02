@@ -47,6 +47,11 @@
 <!-- GitHub Stats -->
 
 <div align="center">
+<p dir="auto">&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/22c1d2b1b60787fbc2fe96159a825ef224dc82a31c64aa66afd9dcc1910d61f1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6465766d756869622673686f775f69636f6e733d74727565266c6f63616c653d656e">
+<img align="center" src="https://camo.githubusercontent.com/22c1d2b1b60787fbc2fe96159a825ef224dc82a31c64aa66afd9dcc1910d61f1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6465766d756869622673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="devmuhib" data-canonical-src="https://github-readme-stats.vercel.app/api?username=devmuhib&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
+</a>
+  </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sananali01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=sananali01&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
