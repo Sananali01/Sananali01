@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there! 👋 I'm Sanan Ali</h1>
-<h3 align="center">Passionate Front-End Developer | Football Fanatic | Video Game Enthusiast</h3>
+<h3 align="center">Passionate Web Developer | Football Fanatic | Video Game Enthusiast</h3>
 <div align="center">
   <p>Passionate about web development, I'm currently focused on creating user-friendly interfaces and mastering the MERN Stack. Eager to collaborate and showcase my work to potential employers. When not coding, I enjoy cheering for my football team or diving into video games.</p>
 </div>
@@ -9,8 +9,9 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" style="max-width:100%;" />
 </p>
+
 
 
 
