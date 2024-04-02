@@ -8,9 +8,8 @@
 <br>
 
 <!-- Profile Views -->
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-10000+-blue?logo=github&label=sananali01" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sananali01&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
 </p>
 
 
