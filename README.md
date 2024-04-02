@@ -27,6 +27,8 @@
   <a href="https://github.com/Sananali01" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sananali01" height="30" width="40" /></a>
 </p>
 
+<br>
+<br>
 <!-- Languages and Tools Section -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -46,8 +48,11 @@
 
 <!-- GitHub Stats -->
 
+
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sananali01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=sananali01&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
