@@ -26,12 +26,22 @@
 <br>
 <!-- Connect with Me Section -->
 <h3 align="center">Connect with me:</h3>
-<p dir="auto" align="center">
-  <a href="https://github.com/Sananali01" rel="nofollow"><img src="https://img.shields.io/badge/GitHub-0079B9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" ></a>
-  <a href="https://www.linkedin.com/in/sananali007" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" style="max-width: 100%;"></a>
-  <a href="https://sanan-official.vercel.app/" rel="nofollow"><img src="https://camo.githubusercontent.com/1d74bc3f465784fd1f7c583f7ef0a5fc44b0cc20fbf06771238bdd213276a3b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" alt="Portfolio Badge" style="max-width: 100%;"></a>
-  <a href="https://facebook.com/sananali53" rel="nofollow"><img src="https://camo.githubusercontent.com/7a20e6344e999300af0fcf52137a2b82a4158481ad5771ce743e20d0c0a84c4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook Badge" style="max-width: 100%;"></a>
-  <a href="https://instagram.com/_exotic.sanan" rel="nofollow"><img src="https://camo.githubusercontent.com/25086f56cd45be5a899ae3feff86e2002bbd656fa569b666d2dd828b538fc9e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram Badge" style="max-width: 100%;"></a>
+<p align="center">
+  <a href="https://github.com/Sananali01" rel="nofollow">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/sananali007" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://sanan-official.vercel.app/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge">
+  </a>
+  <a href="https://facebook.com/sananali53" rel="nofollow">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+  </a>
+  <a href="https://instagram.com/_exotic.sanan" rel="nofollow">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
 </p>
 
 
